@@ -4,13 +4,16 @@
 
 ## Alessandro Angelo Anzellini
 
-![Profile](media/pg.jpg){ width="300" }{ align=left }
+![Profile](media/pg.jpg){ align=left }
 
 **Info**
 
+!!! warning inline end "Open To Work: **NO**"
+
+    All job interviews/offers will be automatically deleted, for offers regarding the future type in the mail-object "FUTURE JOB" please.
+
 - Software Engineering
 - MSc Artificial Intelligence and Robotics
-- OPEN TO WORK RIGHT NOW: <span style="color:red">*NO*</span> all job interviews/offers will be automatically deleted, for offers regarding the future type in the mail-object "FUTURE JOB" please.
 - **e-mail:** anzellinialessandroangelo@gmail.com
 
 ## Teaching
