@@ -10,8 +10,18 @@
 
 - Software Engineering
 - MSc Artificial Intelligence and Robotics
-- OPEN TO WORK RIGHT NOW: <span style="color:red">**NO**</span>.
+- OPEN TO WORK RIGHT NOW: <span style="color:red">*NO*</span> all job interviews/offers will be automatically deleted, for offers regarding the future type in the mail-object "FUTURE JOB" please.
 - **e-mail:** anzellinialessandroangelo@gmail.com
 
+## Teaching
 
-**e-mail:** anzellinialessandroangelo@gmail.com
+- IIS Paolo Savi (Tuscania)
+- IISS Carlo Alberto Dalla Chiesa (Montefiascone)
+
+## Teaching Material
+
+- (2021-2022) **Courses**: *Out of Date*
+- (2022-2023) **Courses**: *Out of Date*
+- (2022-2023) **Lab**: *Out of Date*
+- (2023-2024) **Courses**: *Coming Soon*
+- (2023-2024) **Labs**: [Robo-Lab](https://alexanderis1.github.io/robot-lab/)
