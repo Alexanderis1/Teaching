@@ -6,6 +6,7 @@
 
 ![Profile](media/pg2.jpg){ align=left }
 
+
 **Info**
 
 !!! warning inline end "Open To Work: **NO**"
