@@ -4,7 +4,7 @@
 
 ## Alessandro Angelo Anzellini
 
-![Profile](media/pg.jpg){ align=left }
+![Profile](media/pg2.jpg){ align=left }
 
 **Info**
 
