@@ -32,6 +32,9 @@
 
     Quali sono i 3 migliori difensori che da schierare nel 2020-2021? In questo caso non è necessario prendere in analisi il costo dei difensori, ma solo trovare la terna di difensori la cui media della somma dei voti sia la più alta rispetto ad ogni altra combinazione di 3 giocatori per quell'anno.
 
+##Excel 3B
+[Excel3B](media/3b.xlsx)
+
 ## Appunti
 
 [Reti1](media/Reti1.jpg)
