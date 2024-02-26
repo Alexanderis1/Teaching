@@ -38,4 +38,7 @@
 ## Appunti
 
 [Reti1](media/Reti1.jpg)
+
 [Reti2](media/Reti2.jpg)
+
+[Reti3](media/Reti3.jpg)
